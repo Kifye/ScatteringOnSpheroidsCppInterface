@@ -1,5 +1,5 @@
 # ScatteringOnSpheroidsCppInterface
-Cpp interface for integration of ScatteringOnSpheroidalParticles with CosTuuM
+Cpp interface for integration of ScatteringOnSpheroidalParticles with CosTuuM. Requires supported quadruple precision
 # Building ScatteringOnSpheroidalParticles with CosTuuM
 1. Build library spheroidail_scattering from https://github.com/Kifye/ScatteringOnSpheroidalParticles
 2. Clone CosTuuM from https://github.com/SKIRT/CosTuuM
